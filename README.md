@@ -1,6 +1,6 @@
 # PySide6-SiliconUI
 
-####转载说明
+#### 转载说明
 此项目为Aqqu大佬修改，原地址：https://gitee.com/aqquchina/py-side6-silicon-ui
 为方便Github用户拉取仓库，故将仓库上传Github，如需删库请告知我，谢谢
 
